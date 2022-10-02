@@ -25,19 +25,51 @@
 
 /* headings and logos */
 
+#header { 
+    background-color: #131D2B;
+    overflow:hidden
+} 
+
 h1 {
-    font-family: 'Bungee Spice', cursive;
+    font-family: 'Bungee Spice', cursive , sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color:#FFFFFF;
 }
 
 #mainlogo {
     float: left;
     font-size: 180%;
     margin-left: 30px;
+}   
+
+/* navigation links */
+
+#mainmenu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    float: right;
 }
 
-header { 
-    background-color: #131D2B; 
-}    
+#mainmenu, #mainlogo {
+    line-height: 50px;
+}
+
+#mainmenu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#mainmenu a {
+    font-family: 'Bungee Spice', cursive , sans-serif;
+    text-decoration: none;
+
+}
+
+#mainmenu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.space {
+    border-bottom: 1px solid #3a3a3a;
+}
