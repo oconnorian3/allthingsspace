@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Lato:ital,wght@1,700&family=Oswald&display=swap');
 
 * {
     margin: 0;
@@ -6,6 +6,11 @@
     border: none;
 }
 
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
 /* Styling for hero video */
 
 #videosection {
@@ -73,3 +78,24 @@ h1 {
 .space {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* Over lay text on video */
+.video-banner {
+    position: relative;
+
+  }
+  .video-banner .overlay {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    z-index: 1;
+    font-size: 180%;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding-top: 200px;
+    padding-left: 1200px;
+    bottom: 500px;
+  }
