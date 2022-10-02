@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Lato:wght@300&family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 /* Styling for hero video */
 
-#videodiv {
+#videosection {
       position:relative; 
       width:100%; 
       height: 800px;
@@ -11,15 +19,25 @@
     align-self:stretch;
     justify-self:stretch;
     display:block;
-    top:0;
-    bottom:0;
-    right:0;
-    left:0;
     width:100%;
-    height:100%;
-    background: url('../video/earth.mp4') no-repeat center center;
+    height:100%;  
 }
 
-body {
-    background-color: rgba(13,27,44,255);
+/* headings and logos */
+
+h1 {
+    font-family: 'Bungee Spice', cursive;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color:#FFFFFF;
 }
+
+#mainlogo {
+    float: left;
+    font-size: 180%;
+    margin-left: 30px;
+}
+
+header { 
+    background-color: #131D2B; 
+}    
