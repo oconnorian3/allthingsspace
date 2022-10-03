@@ -33,6 +33,7 @@ body {
 #header { 
     background-color: #131D2B;
     overflow:hidden
+    
 } 
 
 h1 {
@@ -98,4 +99,33 @@ h1 {
     padding-top: 200px;
     padding-left: 1200px;
     bottom: 500px;
+  }
+
+/* About us Section */
+  #about-us {
+    background-color: #6E9ECD;
+    overflow: hidden;
+  }
+
+  h3 {
+    font-family: 'Bungee Spice', cursive , sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 200%;
+    text-align: center;
+  }
+
+  #about-right {
+    float: right;
+    text-align: left;
+    ffont-family: 'Lato', sans-serif;
+    font-size: 150%;
+    letter-spacing: 3px;
+    width: 50%;
+    padding-top: 30px;
+    margin:0 auto;
+  }
+
+  #about-left {
+
   }
