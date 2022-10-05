@@ -32,7 +32,7 @@ body {
 
 #header { 
     background-color: #131D2B;
-    overflow:hidden
+    overflow:hidden;
     
 } 
 
@@ -144,8 +144,8 @@ h1 {
 
 footer {
   background-color: #131D2B;
-  overflow:hidden
-  height: 50px%;
+  overflow:hidden;
+  height: 50px;
 }
 
 .social-networks {
@@ -159,6 +159,6 @@ footer {
 .social-networks i {
   font-size: 150%;
   margin: 1px;
-  padding: 25px;
+  padding: 10px;
   color: #ffffff;
 }
