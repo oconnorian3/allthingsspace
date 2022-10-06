@@ -173,20 +173,20 @@ footer {
   height: 900px;
 }
 
-.signup-form {
-   margin : 150px 10% 0 0;
+.contact-us {
+   margin : 30px 10% 0 0;
    color : #fff;
-   background-color : rgba(60, 60, 60, 0.6);
-   max-width : 400px;
+   background-color :transparent;
+   max-width : 1000px;
    position: absolute;
-   left : 10%;
+   left : 5%;
    padding : 30px;
    
 }
 
-.signup-form h2 {
-   color : #fafafa;
-   margin-bottom : 20px;
+.contact-us h2 {
+  font-family: 'Bungee Spice', cursive , sans-serif;
+   margin-bottom : 50px;
    
 }
 
@@ -201,32 +201,16 @@ footer {
 }
 
 .text-input:hover {
-  border-color : #f16c6b;
-}
-
-.join-button {
-  margin-top : 20px;
-  border-radius : 2px;
-  padding : 15px 32px 15px 32px;
-  text-align : center;
-  font-size :100%;
-  background-color : #f16c6b;
-  color : #fafafa;
-  display: block;
-}
-
-.join-button:hover {
-  background-color : #fafafa;
-  color : #f16c6b;
+  border-color : #ffffff;
 }
 
 #subject {
-  width: 75%; 
-  padding: 30px; 
+  width: 100%; 
+  padding: 50px; 
   border: 1px solid #ccc; 
   border-radius: 4px; 
   box-sizing: border-box; 
-  margin-top: 60px;
+  margin-top: 30px;
   margin-bottom: 16px; 
   resize: vertical ;
   text-align: left;
