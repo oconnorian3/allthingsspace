@@ -18,6 +18,8 @@ body {
       width:100%; 
       height: 56.25rem;
       overflow: hidden;
+      padding: 0;
+      margin: 0;
     }
   
 #hero-video {
