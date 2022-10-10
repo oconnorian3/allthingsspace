@@ -83,6 +83,9 @@ h1 {
 /* Over lay text on video */
 .video-banner {
     position: relative;
+    height: auto;
+    width: 100;
+
 
   }
   .video-banner .overlay {
@@ -142,6 +145,13 @@ h1 {
     color: #3a3a3a;
    }
 
+   /* Where we meet section */
+
+   #wherewemeet {
+    background-color: #6887a7;
+    overflow: hidden;
+  }
+
    /* footer */
 
 footer {
@@ -186,7 +196,7 @@ footer {
 
 .form-section {
   clear: left;
-  background-image: url("../images/pexels-hristo-fidanov-1252890.jpg");
+  background-image: url("../images/nighttimestars.jpg");
   background-size: cover;
   background-position: center;
   height: 900px;
@@ -251,13 +261,17 @@ footer {
     color : #131D2B;
 }
 
+/* Thank You Page */
+
+#thankyou {
+  clear: left;
+  background-image: url("../images/nighttimestars.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+
 /* Media queries */
 
 /* For larger to medium screens size from 1200 px wide and down */
 
-@media screen and (max-width: 1200px) {
-
-  h2 {
-    left: 0;
-  }
-}
