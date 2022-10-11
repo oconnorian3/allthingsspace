@@ -23,3 +23,10 @@ Users who visit this website will be able to understand what this club is about 
     * There is also some text on the bottom left of the video . This is to draw the users eyes down the page which encourages them to scroll down and interact with the site.
 
     ![](assets/images/Screenshot-of-header.png)
+
+ * The about us section
+
+    * This section gives some information on what the club is about , when meetings are and on what it is the club does.
+    * There os also an image of a man using a telescope just to again emphasizewhat it is the club is about.     
+
+    ![](assets/images/screenshot-of-about-us-section.png)
