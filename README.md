@@ -42,3 +42,11 @@ Users who visit this website will be able to understand what this club is about 
     * This is a page showcasing some of the better images taken by members of the space club.
 
     ![](assets/images/screenshot-of-your-images-page.png)   
+
+ * Contact Us
+
+    * This page allows users fill out a form which gathers their name and email address. It also asks them to send a question. 
+    * The form will not send unless all blocks are fille out.
+    * Once the form has been sent it directs the user to a thank you page which then re-directs the usewr back to the homepage. 
+
+    ![](assets/images/screenshot-of-contact-us-page.png)  
