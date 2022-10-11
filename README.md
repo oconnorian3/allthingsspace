@@ -30,3 +30,9 @@ Users who visit this website will be able to understand what this club is about 
     * There os also an image of a man using a telescope just to again emphasizewhat it is the club is about.     
 
     ![](assets/images/screenshot-of-about-us-section.png)
+
+ * Where we meet
+
+    * This is a simple embedded Google Maps I-frame giving detailed information on where meetings are held 
+
+    ![](assets/images/screenshot-of-iframe.png)
