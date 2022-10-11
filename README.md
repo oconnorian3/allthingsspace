@@ -47,6 +47,12 @@ Users who visit this website will be able to understand what this club is about 
 
     * This page allows users fill out a form which gathers their name and email address. It also asks them to send a question. 
     * The form will not send unless all blocks are fille out.
-    * Once the form has been sent it directs the user to a thank you page which then re-directs the usewr back to the homepage. 
+    * Once the form has been sent it directs the user to a thank you page which then re-directs the user back to the homepage. 
 
     ![](assets/images/screenshot-of-contact-us-page.png)  
+
+* Footer
+
+    * All pages have a footer disaplying the various social media links. This helps drive engagement on our social platforms. 
+
+    ![](assets/images/screenshot-of-footer.png)
