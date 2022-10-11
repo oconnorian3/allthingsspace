@@ -14,3 +14,5 @@ Users who visit this website will be able to understand what this club is about 
     * The others navigational links at the top of the page , Home, Your Images & Contact Us all bring you to those namesake pages.
     * The navigational links use a Google font called Bungee Spice with an orange colour. This style of test has a retro spaacey feel about it which compliments the colour theme and gives the user a sense of what this site may be about.
     * The navigational links clearly tell the user where to go on the site and allows the user to navigate quiet easily around the site.
+
+    ![](assets/images/navigational-links.png)
