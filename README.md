@@ -16,3 +16,10 @@ Users who visit this website will be able to understand what this club is about 
     * The navigational links clearly tell the user where to go on the site and allows the user to navigate quiet easily around the site.
 
     ![](assets/images/navigational-links.png)
+
+ * Header
+
+    * Featured on the top of the page there is a hero .mp4 video of a the globe spinning. This gives the user a clear idea on what the main topic of the site and club is.
+    * There is also some text on the bottom left of the video . This is to draw the users eyes down the page which encourages them to scroll down and interact with the site.
+
+    ![](assets/images/Screenshot-of-header.png)
