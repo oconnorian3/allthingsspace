@@ -264,7 +264,15 @@ footer {
   background-image: url("../images/nighttimestars.jpg");
   background-size: cover;
   background-position: center;
-  height: 900px;
+}
+
+.thankyou {
+  height: 100% ;
+  width: 100% ;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Media queries */
