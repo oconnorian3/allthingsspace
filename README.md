@@ -4,7 +4,7 @@ All things space is a website which its primary function is to help gain new mem
 
 Users who visit this website will be able to understand what this club is about , meeting places and also reach out through a contact form and ask any questions they may have. There is also a page showing recent photos taaken by club memebers.
 
-# Place Holder Image #
+![](assets/images/amiresponsivescreenshot.png)
 
 ## Features ##
 
