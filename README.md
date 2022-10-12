@@ -56,3 +56,28 @@ Users who visit this website will be able to understand what this club is about 
     * All pages have a footer disaplying the various social media links. This helps drive engagement on our social platforms. 
 
     ![](assets/images/screenshot-of-footer.png)
+
+# Testing #
+
+   * This site works in different browsers, Chrome , Safari & Firefox
+   * The site is responsive and reacts well to different screen sizes.
+   * I confirmed that thr navigationl links work, are easy to understand and all content text is readable.
+   * I confirmed the form does work, each box must be filled otherwise the form will not submit. Also the email field must show a valid email or the form will not send.
+
+# Bugs #
+
+*Solved Problems*
+
+   * The background in the about us section caused the about us header to become unreadable. Creating a darker backgrouynd solved this
+   * On a smaller screen a bit white space formed between the about us section and the main video banner. This was becasue I had a heigth deine for the video and removing this fixed it. 
+
+# Validator Testing #
+
+* HTML
+   * No errors were retuned when passing through the official W3C validator
+* CSS
+   * No errors were retuned when passing through the official (Jigsaw) validator
+* Accessibility
+   * The colours and fonts are easy to read by passing it through the lighthouse in dev tools.
+   
+      
