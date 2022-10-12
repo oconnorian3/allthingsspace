@@ -113,7 +113,6 @@ h1 {
     width: 100%;
     display: flex;
     align-items: center;
-
   }
 
   img {
@@ -281,4 +280,50 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+  #about-right {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .img {
+    order: 1;
+  }
+
+  .groupinfo {
+    order: 2;
+  }
+  }
+
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width:950px) {
+    
+  #about-right {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .img {
+    order: 1;
+  }
+
+  .groupinfo {
+    order: 2;
+  }
 }
+
+  @media screen and (max-width:800px) {
+
+    #about-right {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .img {
+      order: 1;
+    }
+  
+    .groupinfo {
+      order: 2;
+    }
+  }
