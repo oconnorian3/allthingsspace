@@ -80,4 +80,13 @@ Users who visit this website will be able to understand what this club is about 
 * Accessibility
    * The colours and fonts are easy to read by passing it through the lighthouse in dev tools.
 
-![](assets/images/Lighouthouse-score.png)      
+![](assets/images/Lighouthouse-score.png)     
+
+# Credits #
+
+**Content** 
+   * The main code for the social media links was taken from the I love running project.
+
+**Media**
+
+   * The video and all images was taken from pexels.com
