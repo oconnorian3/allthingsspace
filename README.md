@@ -79,5 +79,5 @@ Users who visit this website will be able to understand what this club is about 
    * No errors were retuned when passing through the official (Jigsaw) validator
 * Accessibility
    * The colours and fonts are easy to read by passing it through the lighthouse in dev tools.
-   
-      
+
+![](assets/images/Lighouthouse-score.png)      
