@@ -326,4 +326,8 @@ footer {
     .groupinfo {
       order: 2;
     }
+
+    #photos {
+      column-count: 2;
+    }
   }
