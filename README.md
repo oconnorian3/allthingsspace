@@ -4,7 +4,10 @@ All things space is a website which its primary function is to help gain new mem
 
 Users who visit this website will be able to understand what this club is about , meeting places and also reach out through a contact form and ask any questions they may have. There is also a page showing recent photos taaken by club memebers.
 
-![](assets/images/amiresponsivescreenshot.png)
+## UX/UI ##
+
+   * A dark template was chosen to sit in with the overall theme of space. Blue tones were also brought in as they went well with the dark images. 
+   * I went with orange covered navigational links and headers as I felt they went well with the dark background and the contrast between both worked well.
 
 ## Features ##
 
@@ -64,14 +67,15 @@ Users who visit this website will be able to understand what this club is about 
    * I confirmed that thr navigationl links work, are easy to understand and all content text is readable.
    * I confirmed the form does work, each box must be filled otherwise the form will not submit. Also the email field must show a valid email or the form will not send.
 
-# Bugs #
+**Bugs** 
 
 *Solved Problems*
 
    * The background in the about us section caused the about us header to become unreadable. Creating a darker backgrouynd solved this
    * On a smaller screen a bit white space formed between the about us section and the main video banner. This was becasue I had a heigth deine for the video and removing this fixed it. 
+   * The text in the about us section lost its bullet points on smaller screens. Converting a pixel margin setting to em solved this.
 
-# Validator Testing #
+**Validator Testing**
 
 * HTML
    * No errors were retuned when passing through the official W3C validator
