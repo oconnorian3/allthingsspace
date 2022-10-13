@@ -17,7 +17,7 @@ Users who visit this website will be able to understand what this club is about 
 
     * On the top left hand side of the page is thr club name All Things Space. This links you back to the homepage.
     * The others navigational links at the top of the page , Home, Your Images & Contact Us all bring you to those namesake pages.
-    * The navigational links use a Google font called Bungee Spice with an orange colour. This style of test has a retro spaacey feel about it which compliments the colour theme and gives the user a sense of what this site may be about.
+    * The navigational links use a Google font called Bungee Spice with an orange colour. This style of test has a retro spacey feel about it which compliments the colour theme and gives the user a sense of what this site may be about.
     * The navigational links clearly tell the user where to go on the site and allows the user to navigate quiet easily around the site.
 
     ![](assets/images/navigational-links.png)
@@ -31,7 +31,7 @@ Users who visit this website will be able to understand what this club is about 
  * The about us section
 
     * This section gives some information on what the club is about , when meetings are and on what it is the club does.
-    * There os also an image of a man using a telescope just to again emphasizewhat it is the club is about.     
+    * There is also an image of a man using a telescope just to again emphasize what it is the club is about.     
 
     ![](assets/images/screenshot-of-about-us-section.png)
 
@@ -75,7 +75,7 @@ Users who visit this website will be able to understand what this club is about 
 ![](assets/images/safari.png)
 
    * The site is responsive and reacts well to different screen sizes.
-   * I confirmed that thr navigational links work, are easy to understand and all content text is readable.
+   * I confirmed that the navigational links work, are easy to understand and all content text is readable.
    * I confirmed the form does work, each box must be filled otherwise the form will not submit. Also the email field must show a valid email or the form will not send.
 
 **Bugs** 
@@ -83,7 +83,7 @@ Users who visit this website will be able to understand what this club is about 
 *Solved Problems*
 
    * The background in the about us section caused the about us header to become unreadable. Creating a darker backgrouynd solved this
-   * On a smaller screen a bit white space formed between the about us section and the main video banner. This was becasue I had a heigth deine for the video and removing this fixed it. 
+   * On a smaller screen a bit white space formed between the about us section and the main video banner. This was becasue I had a height define for the video and removing this fixed it. 
    * The text in the about us section lost its bullet points on smaller screens. Converting a pixel margin setting to em solved this.
 
 **Validator Testing**
@@ -96,11 +96,9 @@ https://validator.w3.org/nu/?doc=https%3A%2F%2Foconnorian3.github.io%2Fallthings
 ```
 ```
 https://validator.w3.org/nu/?doc=https%3A%2F%2Foconnorian3.github.io%2Fallthingsspace%2Fcontactus.html
-
 ```
 ```
 https://validator.w3.org/nu/?doc=https%3A%2F%2Foconnorian3.github.io%2Fallthingsspace%2Findex.html
-
 ```
 
 * CSS
