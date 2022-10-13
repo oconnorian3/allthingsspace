@@ -4,6 +4,8 @@ All things space is a website which its primary function is to help gain new mem
 
 Users who visit this website will be able to understand what this club is about , meeting places and also reach out through a contact form and ask any questions they may have. There is also a page showing recent photos taaken by club memebers.
 
+![](assets/images/amiresponsivescreenshot.png)
+
 ## UX/UI ##
 
    * A dark template was chosen to sit in with the overall theme of space. Blue tones were also brought in as they went well with the dark images. 
@@ -79,6 +81,15 @@ Users who visit this website will be able to understand what this club is about 
 
 * HTML
    * No errors were retuned when passing through the official W3C validator
+
+```
+https://validator.w3.org/nu/?doc=https%3A%2F%2Foconnorian3.github.io%2Fallthingsspace%2Fyourimages.html
+https://validator.w3.org/nu/?doc=https%3A%2F%2Foconnorian3.github.io%2Fallthingsspace%2Fcontactus.html
+https://validator.w3.org/nu/?doc=https%3A%2F%2Foconnorian3.github.io%2Fallthingsspace%2Findex.html
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Foconnorian3.github.io%2Fallthingsspace%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
+```
+
 * CSS
    * No errors were retuned when passing through the official (Jigsaw) validator
 * Accessibility
