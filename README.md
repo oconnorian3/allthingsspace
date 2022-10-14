@@ -2,7 +2,7 @@
 
 All things space is a website which its primary function is to help gain new members to club of space enthusiasts. All things space is a club of space enthusiasts located in the south west of Ireland who meet up on a regular space to share in each others love for space.
 
-Users who visit this website will be able to understand what this club is about , meeting places and also reach out through a contact form and ask any questions they may have. There is also a page showing recent photos taaken by club memebers.
+Users who visit this website will be able to understand what this club is about , meeting places and also reach out through a contact form and ask any questions they may have. There is also a page showing recent photos taken by club memebers.
 
 ![](assets/images/amiresponsivescreenshot.png)
 
@@ -15,9 +15,9 @@ Users who visit this website will be able to understand what this club is about 
 
  * Navigation
 
-    * On the top left hand side of the page is thr club name All Things Space. This links you back to the homepage.
+    * On the top left hand side of the page is the club name All Things Space. This links you back to the homepage.
     * The others navigational links at the top of the page , Home, Your Images & Contact Us all bring you to those namesake pages.
-    * The navigational links use a Google font called Bungee Spice with an orange colour. This style of test has a retro spacey feel about it which compliments the colour theme and gives the user a sense of what this site may be about.
+    * The navigational links use a Google font called Bungee Spice with an orange colour. This style of text has a retro spacey feel about it which compliments the colour theme and gives the user a sense of what this site may be about.
     * The navigational links clearly tell the user where to go on the site and allows the user to navigate quiet easily around the site.
 
     ![](assets/images/navigational-links.png)
@@ -50,7 +50,7 @@ Users who visit this website will be able to understand what this club is about 
  * Contact Us
 
     * This page allows users fill out a form which gathers their name and email address. It also asks them to send a question. 
-    * The form will not send unless all blocks are fille out.
+    * The form will not send unless all blocks are filled out.
     * Once the form has been sent it directs the user to a thank you page which then re-directs the user back to the homepage. 
 
     ![](assets/images/screenshot-of-contact-us-page.png)  
