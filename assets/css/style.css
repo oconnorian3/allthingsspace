@@ -48,7 +48,7 @@ h1 {
 #mainlogo {
     float: left;
     font-size: 180%;
-    margin-left: 30px;
+    margin-left: 1.8em;
 }   
 
 /* navigation links */
@@ -66,7 +66,7 @@ h1 {
 #mainmenu li {
     float: left;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 1.8em;
 }
 
 #mainmenu a {
@@ -326,3 +326,4 @@ footer {
       column-count: 2;
     }
   }
+
